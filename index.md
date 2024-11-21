@@ -4,10 +4,7 @@
 
 ---
 ## ABOUT
-I am a second year student, very passionate,enthusiastic and hardworking about problem solving and coding. Currently pursing Btech in CSE from MNIT Jaipur, I am very skilled at C, C++, Python and
-Javascript. I am deeply interested in Machine Learning, AI, Web Development, Cybersecurity
-and greatly motivated by the ongoing research in this field. I excel at breaking down complex tasks and managing teams to execute projects effectively.
-
+Hello! I am **PRINCI MANTRI** a passionate Computer Science Engineering student eager to learn and grow in the field of technology.  I am deeply interested in Machine Learning, AI, Web Development, Cybersecurityand greatly motivated by the ongoing research in this field. I excel at breaking down complex tasks and managing teams to execute projects effectively.This portfolio showcases my skills, education, interests, and how to reach me.
 ---
 ## EDUCATION
 | INSTITUTE | YEAR OF PASSING | DEGREE | GRADE |
