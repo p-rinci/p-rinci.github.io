@@ -12,7 +12,7 @@ Hello! I am **PRINCI MANTRI** a passionate Computer Science Engineering student 
 | Malaviya National Institute of Technology, Jaipur | 2027 | Btech CSE | 9.02 CGPA |
 | Prince school,sikar| 2023 | Class 12 | 97.2% |
 | Mahesh public school,Bhilwara| 2021 | Class 10 | 98% |
-![MNIT](https://mnit.ac.in/Images/about_images/pb_mnit.jpg)
+![MNIT](https://mnit.ac.in/about_us/images/5.JPG)
 ---
 ## INTRESTS
 -  Web Devolopmnet
